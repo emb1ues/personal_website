@@ -554,7 +554,7 @@
   /* Center align author name, use small caps and add vertical spacing  */
   .author {
     margin: 0.85rem 0;
-    font-variant-caps: small-caps;
+    /* font-variant-caps: small-caps; */
     text-align: center;
   }
   
